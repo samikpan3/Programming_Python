@@ -23,9 +23,9 @@ Converted this webscrap into python dataframe for further analysis like: movies 
 ## Lab 6: Data cleaning and data wrangling.
 Replacing missing values, removing/aggregating columns based on need, data visulization to discover outliers, merging data sheets etc. 
 
-## lab 7: Data Aggregation and analysis 
+## Lab 7: Data Aggregation and analysis 
 Pivot the data, index/label,reshape and crosstab based on conditions.
 
-## lab 8: Data Visualization and Data Exploration
+## Lab 8: Data Visualization and Data Exploration
  Line chart, Bar chart, Histogra, box plot for data explorations. 
 
